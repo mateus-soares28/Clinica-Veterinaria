@@ -43,11 +43,11 @@ body::-webkit-scrollbar {
   backdrop-filter: blur(6px);
 }
 
-.header-content {
+.header-conteudo {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-left: 19px;
+  margin-left: 18px;
 }
 
 .logo {
