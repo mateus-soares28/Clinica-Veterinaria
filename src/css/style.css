@@ -31,7 +31,7 @@ body::-webkit-scrollbar {
   padding: 24px 0;
   position: fixed;
   top: 0;
-  left: 0;
+  left: 90px;
   width: 100%;
   background: #fbfaf7;
   z-index: 1000;
