@@ -43,7 +43,7 @@ body::-webkit-scrollbar {
   backdrop-filter: blur(6px);
 }
 
-.header-conteudo {
+.header-content {
   display: flex;
   align-items: center;
   justify-content: space-between;
