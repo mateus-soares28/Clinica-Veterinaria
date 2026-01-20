@@ -47,7 +47,7 @@ body::-webkit-scrollbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-left: 18px;
+  margin-left: 19px;
 }
 
 .logo {
